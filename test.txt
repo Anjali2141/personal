@@ -1,1 +1,2 @@
 This will be pushed to other account
+added name & email
